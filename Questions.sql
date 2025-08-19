@@ -1,4 +1,4 @@
-SELECT * FROM netflix;
+SELECT * FROM netflix_show_data;
 ----------------------------------------------------------------------------------------------------------------
 1.  Count the number of Movies vs TV Shows
 
