@@ -32,7 +32,7 @@ The data used in this project is sourced from a publicly available Netflix datas
 
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
---
+---
 
 ## Project Structure
 ```
