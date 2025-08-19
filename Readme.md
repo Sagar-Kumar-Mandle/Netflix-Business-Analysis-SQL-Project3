@@ -30,7 +30,7 @@ In this project, I analyzed Netflix’s movies and TV shows data with SQL to unc
 
 The data used in this project is sourced from a publicly available Netflix dataset on Kaggle.
 
-- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- **Dataset Link:** [Netflix Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ---
 
